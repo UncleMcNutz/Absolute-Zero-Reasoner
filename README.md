@@ -1,3 +1,6 @@
+
+All credit to the creators bellow this fork is mearly for my development ease thank you.
+
 <div align="center">
 
 # Absolute Zero:  Reinforced Self-play Reasoning with Zero Data
